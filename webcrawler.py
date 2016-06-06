@@ -113,6 +113,7 @@ def web_crawl():
         already_visited = set()
 
         f = open(output, 'w')
+        print "Web crawling to get site map, please wait..."
 
         # Visit and get all links
         while len(visit_pages) > 0:

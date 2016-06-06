@@ -26,3 +26,12 @@ I use a list to track the links that still need to be inspected. A list keeps so
 This function grabs the data from the given URL and finds all the links in the returned HTML page. 
 
 To find all the links in the data, I find all the "href" parts of the response text and parse those to get the links. Then, the ones that belong to the original URL's domain and have not been inspected yet get added to the list of urls that need to be inspected, and this list gets returned to web_crawl().
+
+## Tests Ran
+Here is a list of tests I ran: 
+- empty URL with empty output file
+- existent URL with empty output file
+- empty URL with output file name
+- existent base URL (ie "github.com") with output file name
+- existent URL with output file name but kill process while it's running
+- existent URL that already is a sub-page of the site (ie "https://github.com/andreaowu/SiteMap"), with output file name
