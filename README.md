@@ -10,7 +10,7 @@ The program will prompt you to provide two inputs:
 ### Start the web crawler
 Option 1: Download the webcrawler.py file, and in a command-line prompt, type 'python webcrawler.py' to start the web crawler.
 
-Option 2: Download the executable file, and ouble click on it to run.
+Option 2: Download the executable file, and double click on it to run.
 
 ## Code Design
 All the code is in one file: webcrawler.py, which has three functions.
