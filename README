@@ -8,7 +8,9 @@ The program will prompt you to provide two inputs:
     - output location of the file with the site map
 
 ### Start the web crawler
-Download the webcrawler.py file, and in a command-line prompt, type 'python webcrawler.py' to start the web crawler.
+Option 1: Download the webcrawler.py file, and in a command-line prompt, type 'python webcrawler.py' to start the web crawler.
+
+Option 2: Download the executable file, and ouble click on it to run.
 
 ## Code Design
 All the code is in one file: webcrawler.py, which has three functions.
