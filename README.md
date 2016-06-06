@@ -4,8 +4,8 @@ Web crawler that produces a site map, for user-given site and user-given output 
 ## Usage
 ### Inputs and Outputs
 The program will prompt you to provide two inputs:
-    - website for which you would like a site map 
-    - output location of the file with the site map
+- website for which you would like a site map 
+- output location of the file with the site map
 
 ### Start the web crawler
 Option 1: Download the webcrawler.py file, and in a command-line prompt, type 'python webcrawler.py' to start the web crawler.
