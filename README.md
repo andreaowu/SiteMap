@@ -32,6 +32,6 @@ Here is a list of tests I ran:
 - empty URL with empty output file
 - existent URL with empty output file
 - empty URL with output file name
-- existent base URL (ie "github.com") with output file name
+- existent base URL (ie "https://github.com") with output file name
 - existent URL with output file name but kill process while it's running
 - existent URL that already is a sub-page of the site (ie "https://github.com/andreaowu/SiteMap"), with output file name
